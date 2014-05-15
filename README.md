@@ -1,4 +1,4 @@
 testing
 =======
 
-an example 2
+an example
